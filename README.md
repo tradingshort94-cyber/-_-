@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://img.sanishtech.com/u/3d97619009a2f98ee856f42d76215a60.png" alt="𝐋𝐄𝐀𝐙𝐘  𝐏𝐀𝐔𝐋 🪬 Logo">
+  <img src="https://repgyetdcodkynrbxocg.supabase.co/storage/v1/object/public/images/telegram-1774682557878-a4e3a695.jpg" alt="𝐋𝐄𝐀𝐙𝐘  𝐏𝐀𝐔𝐋 🪬 Logo">
 </p>
 <h1 align="center">
   <b> 𝐋𝐄𝐀𝐙𝐘  𝐏𝐀𝐔𝐋 🪬 </b>
